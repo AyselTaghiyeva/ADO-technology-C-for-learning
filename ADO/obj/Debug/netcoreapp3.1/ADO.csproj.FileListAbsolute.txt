@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\ADO\ADO\ADO\obj\Debug\netcoreapp3.1\ADO.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ADO\ADO\ADO\obj\Debug\netcoreapp3.1\Interop.ADODB.dll
+C:\Users\User\Desktop\ADO\ADO\ADO\obj\Debug\netcoreapp3.1\Interop.ADOX.dll
+C:\Users\User\Desktop\ADO\ADO\ADO\obj\Debug\netcoreapp3.1\Interop.VBIDE.dll
+C:\Users\User\Desktop\ADO\ADO\ADO\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Access.dll
+C:\Users\User\Desktop\ADO\ADO\ADO\obj\Debug\netcoreapp3.1\ADO.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\ADO\ADO\ADO\obj\Debug\netcoreapp3.1\ADO.Form1.resources
+C:\Users\User\Desktop\ADO\ADO\ADO\obj\Debug\netcoreapp3.1\ADO.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ADO\ADO\ADO\obj\Debug\netcoreapp3.1\ADO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ADO\ADO\ADO\obj\Debug\netcoreapp3.1\ADO.AssemblyInfo.cs
+C:\Users\User\Desktop\ADO\ADO\ADO\obj\Debug\netcoreapp3.1\ADO.csproj.CoreCompileInputs.cache
